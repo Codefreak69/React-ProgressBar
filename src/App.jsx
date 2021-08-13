@@ -32,6 +32,7 @@ function App() {
       <div className="progressBarContainer" id="progressBarContainer">
         <div className="progressBar" id="progressBar"></div>
       </div>
+      <h1 style={{textAlign : "center"}}> Scroll to see Magic</h1>
       <p>
         Donec placerat vel enim vel dictum. Donec varius, quam nec iaculis
         sagittis, nulla leo rutrum sapien, eu sollicitudin sapien nisl vel
